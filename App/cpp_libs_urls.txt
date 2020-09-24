@@ -1,0 +1,5 @@
+Работа с .npy файлами
+https://github.com/llohse/libnpy
+
+Работа с .csv файлами
+https://github.com/p-ranav/csv2

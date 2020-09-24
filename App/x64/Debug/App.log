@@ -1,0 +1,15 @@
+﻿  App.cpp
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\gnuplot-cpp\gnuplot_i.hpp(954,1): warning C4297: Gnuplot::~Gnuplot: ожидается, что функция не будет выдавать исключения, но она это делает
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\gnuplot-cpp\gnuplot_i.hpp(954,1): message : деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\gnuplot-cpp\gnuplot_i.hpp(1600,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\gnuplot-cpp\gnuplot_i.hpp(1602,38): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\gnuplot-cpp\gnuplot_i.hpp(1775,12): error C4996: 'getenv': This function or variable may be unsafe. Consider using _dupenv_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\gnuplot-cpp\gnuplot_i.hpp(1919,9): error C4996: '_mktemp': This function or variable may be unsafe. Consider using _mktemp_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\gnuplot-cpp\gnuplot_i.hpp(1954,52): warning C4267: -=: преобразование из "size_t" в "int"; возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\npy.hpp(87,10): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\App.cpp(199,15): error C2429: для функция языка "структурированные привязки" нужен флаг компилятора "/std:c++17"
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\App.cpp(246,35): warning C4305: инициализация: усечение из "double" в "float"
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\App.cpp(251,57): warning C4305: +=: усечение из "double" в "float"
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\App.cpp(256,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\App.cpp(270,56): warning C4305: +=: усечение из "double" в "float"
+D:\Study\Хакатон Турнир 3х городов 2020\DeltaSigma 4.0 2020\App\App.cpp(275,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных

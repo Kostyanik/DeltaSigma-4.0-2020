@@ -1,0 +1,58 @@
+﻿  App.cpp
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\gnuplot-cpp\gnuplot_i.hpp(954,1): warning C4297: Gnuplot::~Gnuplot: ожидается, что функция не будет выдавать исключения, но она это делает
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\gnuplot-cpp\gnuplot_i.hpp(954,1): message : деструктор или метод отмены выделения имеет (возможно, неявно) спецификацию, не предусматривающую создание исключений
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\gnuplot-cpp\gnuplot_i.hpp(1600,28): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\gnuplot-cpp\gnuplot_i.hpp(1602,38): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(763,40): warning C4244: return: преобразование "int64_t" в "size_t", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(786,59): warning C4244: аргумент: преобразование "const int64_t" в "size_t", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(799,72): warning C4244: аргумент: преобразование "const int64_t" в "SIZE_T", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(244,64): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(244,96): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(245,35): warning C4305: инициализация: усечение из "double" в "float"
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(250,56): warning C4305: +=: усечение из "double" в "float"
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(252,79): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(253,73): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(254,73): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(255,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(264,55): warning C4305: +=: усечение из "double" в "float"
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(266,75): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(267,77): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(268,77): warning C4244: аргумент: преобразование "float" в "const unsigned int", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(269,53): warning C4244: аргумент: преобразование "double" в "float", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(943,18): warning C4244: =: преобразование "const int64_t" в "mio::basic_mmap<mio::access_mode::read,char>::size_type", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(914): message : во время компиляции функции-члена класс шаблон "void mio::basic_mmap<mio::access_mode::read,char>::map(const mio::basic_mmap<mio::access_mode::read,char>::handle_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type,std::error_code &)"
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(905): message : выполняется компиляция ссылки на экземпляр шаблон функции "void mio::basic_mmap<mio::access_mode::read,char>::map(const mio::basic_mmap<mio::access_mode::read,char>::handle_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type,std::error_code &)"
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(190): message : выполняется компиляция ссылки на экземпляр шаблон функции "void mio::basic_mmap<mio::access_mode::read,char>::map<String>(const String &,const mio::basic_mmap<mio::access_mode::read,char>::size_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type,std::error_code &)"
+          with
+          [
+              String=std::string
+          ]
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(190): message : выполняется компиляция ссылки на экземпляр шаблон функции "void mio::basic_mmap<mio::access_mode::read,char>::map<String>(const String &,const mio::basic_mmap<mio::access_mode::read,char>::size_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type,std::error_code &)"
+          with
+          [
+              String=std::string
+          ]
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\reader.hpp(24): message : выполняется компиляция ссылки на экземпляр шаблон функции "mio::basic_mmap<mio::access_mode::read,char>::basic_mmap<std::string>(const String &,const mio::basic_mmap<mio::access_mode::read,char>::size_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type)"
+          with
+          [
+              String=std::string
+          ]
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\reader.hpp(24): message : выполняется компиляция ссылки на экземпляр шаблон функции "mio::basic_mmap<mio::access_mode::read,char>::basic_mmap<std::string>(const String &,const mio::basic_mmap<mio::access_mode::read,char>::size_type,const mio::basic_mmap<mio::access_mode::read,char>::size_type)"
+          with
+          [
+              String=std::string
+          ]
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(112): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool csv2::Reader<csv2::delimiter<44>,csv2::quote_character<34>,csv2::first_row_is_header<true>,csv2::trim_policy::trim_characters<32,9>>::mmap<const std::string&>(StringType)"
+          with
+          [
+              StringType=const std::string &
+          ]
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(112): message : выполняется компиляция ссылки на экземпляр шаблон функции "bool csv2::Reader<csv2::delimiter<44>,csv2::quote_character<34>,csv2::first_row_is_header<true>,csv2::trim_policy::trim_characters<32,9>>::mmap<const std::string&>(StringType)"
+          with
+          [
+              StringType=const std::string &
+          ]
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\App.cpp(218): message : выполняется компиляция ссылки на экземпляр шаблон функции "std::vector<std::vector<dtype,std::allocator<dtype>>,std::allocator<std::vector<dtype,std::allocator<dtype>>>> loadCsv<dtype>(const std::string &)"
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\csv2\mio.hpp(944,25): warning C4244: =: преобразование "const int64_t" в "mio::basic_mmap<mio::access_mode::read,char>::size_type", возможна потеря данных
+D:\Study\Хакатон Турнир 3х городов 2020\App\App\gnuplot-cpp\gnuplot_i.hpp(1874): warning C4715: Gnuplot::file_available: значение возвращается не при всех путях выполнения
+  App.vcxproj -> D:\Study\Хакатон Турнир 3х городов 2020\App\Debug\App.exe
